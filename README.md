@@ -1,4 +1,7 @@
-# meu-site
-Site feito há um tempinho atrás
+# Projeto Front-End
+
+Técnologias Utilizadas:
+
+HTML, CSS & JavaScript
 
 Site: https://eddwardmessias.netlify.app
